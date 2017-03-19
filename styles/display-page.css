@@ -1,6 +1,9 @@
 body {
 	font-size:0px;
 	width:800px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 60px;
 }
 
 .block {
